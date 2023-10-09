@@ -45,3 +45,9 @@ CREATE TABLE `cyclistics_trip_data.cleaned_combined_data` AS (
       end_lng IS NOT NULL AND
       ride_length > 1 AND ride_length < 1440
 );
+
+SELECT 
+  COUNT(ride_id) AS number_of_rows       
+FROM `axiomatic-robot-398517.cyclistics_trip_data.cleaned_combined_data`;
+
+-- returned 4,249,346 rows so 1,474,260 rows removed

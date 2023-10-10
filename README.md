@@ -3,7 +3,7 @@ Case Study: How to Achieve Quick Success for a Bike Sharing Business?
 
 ### Scenery
 
-I'm a junior data analyst working on the marketing analyst team at Cyclistic, a bike-sharing company in Chicago. The marketing director believes that the company's future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand what differences exist in the use of Cyclistic bicycles between casual riders and annual members to design a new marketing strategy. 
+I'm a junior data analyst working on the marketing analyst team at Cyclistic, a fictitious bike-sharing company in Chicago. The marketing director believes that the company's future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand what differences exist in the use of Cyclistic bicycles between casual riders and annual members to design a new marketing strategy. 
 
 ### Characters and teams
 
@@ -28,7 +28,7 @@ Increase the number of annual memberships
 
 ### Data source
 
-As it is a fictitious company, I used public data to explore how the types of customers who use Cyclistic bikes differ, between August 2022 and July 2023 (12 months). They have been provided by Motivate International Inc. under this license and can be downloaded at https://divvy-tripdata.s3.amazonaws.com/index.html.
+I used public data to explore how the types of customers who use Cyclistic bikes differ, between August 2022 and July 2023 (12 months). They have been provided by Motivate International Inc. under this license and can be downloaded at https://divvy-tripdata.s3.amazonaws.com/index.html.
 
 ### Prepare
 

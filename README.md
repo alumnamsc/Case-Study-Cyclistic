@@ -120,11 +120,14 @@ On member riders, starting and ending station are close to universities, residen
 ### Conclusions
 
 Casual users prefer using bikes throughout the day, more frequently over the weekends in summer and spring for recreational/tourist activities. On the other hand, members prefer to use bicycles during work/study hours, especially during arrival and leaving times (8 am and 5 pm) in summer and spring (from March to September).
+
 Members travel more frecuently but the average ride duration is always lower than the casual riders.
 
 ### Act
 
 According to the analysis and conclusions, for the most part casual riders are Chicago tourists/visitors. As their stays are temporary, the company may be offered a temporary membership, either monthly, weekly or weekend.
+
 Casual travelers could be incentivized to obtain a temporary membership by giving them a discount for making trips with an average duration of 20 minutes or more.
+
 Marketing campaigns should focus on the spring/summer season in recreational/tourist places of the city since that is when the largest number of trips are made.
 

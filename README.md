@@ -125,9 +125,11 @@ Members travel more frecuently but the average ride duration is always lower tha
 
 ### Act
 
-According to the analysis and conclusions, for the most part casual riders are Chicago tourists/visitors. As their stays are temporary, the company may be offered a temporary membership, either monthly, weekly or weekend.
+Casual riders use Cyclistic only for recreational activities, so the company may be offered a temporary membership, either monthly, weekly or weekend. 
+
+During the low season months (autumn and winter), a discount could be offered so that the difference in the number of trips is not so significant compared to the high season.
 
 Casual travelers could be incentivized to obtain a temporary membership by giving them a discount for making trips with an average duration of 20 minutes or more.
 
-Marketing campaigns should focus on the spring/summer season in recreational/tourist places of the city since that is when the largest number of trips are made.
+Marketing campaigns should be realized in the spring/summer season in recreational/tourist places of the city since that is when the largest number of trips are made. They should be focus on the use of bicycles for daily use since this could reduce car traffic and pollution.
 

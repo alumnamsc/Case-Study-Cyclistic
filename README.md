@@ -11,14 +11,14 @@ I am a junior data analyst. I work on the marketing analyst team at Cyclistic, a
 
 ● Lily Moreno: The marketing director and my manager. Moreno is responsible for developing campaigns and initiatives to promote the bike-sharing program. Campaigns can include email, social media and other channels.
 
-● Cyclistic Marketing Data Computational Analysis Team: A team of data analysts responsible for collecting, analyzing and reporting data that helps drive Cyclistic's marketing strategy. I joined this team six months ago and have dedicated myself not only to understanding Cyclistic's mission and business goals but also to seeing how I can help Cyclistic achieve them, from my position as a junior data analyst.
+● Cyclistic Marketing Data Computational Analysis Team: A team of data analysts responsible for collecting, analyzing and reporting data that helps drive Cyclistic marketing strategy. I joined this team six months ago and have dedicated myself not only to understanding Cyclistic mission and business goals but also to seeing how I can help Cyclistic achieve them, from my position as a junior data analyst.
 
 ● Cyclistic Executive Team: The highly detailed executive team will decide whether to approve the recommended marketing program.
 
 ### Ask
 
 Three questions will guide the future marketing program:
-1. How are annual members and casual riders different when it comes to using Cyclistic bikes?
+1. How are annual members and casual riders different when it comes to usage Cyclistic bikes?
 2. Why would casual cyclists purchase Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual cyclists to become members?
 

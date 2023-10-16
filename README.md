@@ -3,7 +3,7 @@ Case Study: How to Achieve Quick Success for a Bike Sharing Business?
 
 ### Scenery
 
-I am a junior data analyst. I work on the marketing analyst team at Cyclistic, a fictitious bike-sharing company in Chicago. The marketing director believes that the company future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand what differences exist in Cyclistic bicycles uses between casual riders and annual members to design a new marketing strategy. 
+I am a junior data analyst. I work on the marketing analyst team at Cyclistic, a fictitious bike-sharing company in Chicago. The marketing director believes that the company's future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand what differences exist in Cyclistic bicycles uses between casual riders and annual members to design a new marketing strategy. 
 
 ### Characters and teams
 
